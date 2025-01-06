@@ -8,7 +8,7 @@
   <a href="https://github.com/allenai/mm_olmo/blob/release/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/allenai/OLMo">
   </a>
-  <a href="https://molmo.allenai.org/blog">
+  <a href="https://www.molmo.me/">
     <img alt="Blog Post" src="https://img.shields.io/badge/Molmo-blog-F0529C">
   </a>
   <a href="https://arxiv.org/pdf/2409.17146">
