@@ -24,7 +24,7 @@
 
 Molmo is a repository for training and using Ai2's state-of-the-art multimodal open language models.
 
-Here is a **[video demo](https://www.youtube.com/watch?v=spBxYa3eAlA)** of Molmo's capabilities. Try Molmo using our public **[demo](https://molmo.allenai.org)** showcasing the Molmo-7B-D model.
+Try Molmo using our public **[demo](https://molmo.allenai.org)** showcasing the Molmo-7B-D model.
 
 This codebase is based on the [OLMo codebase](https://github.com/allenai/OLMo) with the addition
 of vision encoding and integrating generative evaluations.
